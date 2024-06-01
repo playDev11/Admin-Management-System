@@ -475,3 +475,13 @@ main a{
         display: none;
     }
 }
+@media screen and (max-width:768px){
+    .container{
+        width: 100%;
+    }
+    aside{
+        position: fixed;
+        left: 0;
+    }
+    
+}
